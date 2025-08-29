@@ -1,2 +1,2 @@
 Este es mi archivo inicial local
-Archivo # "Modificdo pr estudiante B"
+Archivo # "Modificdo en github por estudiante B"
