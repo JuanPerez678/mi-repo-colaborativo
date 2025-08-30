@@ -1,5 +1,3 @@
 Este es mi archivo inicial local
 #Archivo  modificdo en github por estudiante B"
 #Cambio realizado en GitHub (rama rain)
-
-#Linea añadida desde GitHub en la tarea
