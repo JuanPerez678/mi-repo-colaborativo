@@ -1,7 +1,7 @@
 Este es mi archivo inicial local
 #Archivo  modificdo en github por estudiante B"
 #Cambio realizado en GitHub (rama rain)
-#Línea añadida desde GitHub en la tarea
+
 
 
 
